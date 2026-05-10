@@ -12,3 +12,6 @@ Objetivos de estudo:
 
 Curadoria de Fontes:
 - Para alimentar o NotebookLM, selecionei fontes confiáveis como MIT, Alura, Gupy... para minimizar Alucinações.
+
+Link do NootbookLM:
+https://notebooklm.google.com/notebook/0dd658e8-e0f8-4e14-a832-77573b975ce2
