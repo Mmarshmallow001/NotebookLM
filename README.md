@@ -11,4 +11,4 @@ Objetivos de estudo:
 - Ter um guia prático de desenvolvimento dessas competências.
 
 Curadoria de Fontes:
-Para alimentar o NotebookLM, selecionei fontes confiáveis como MIT, Alura, Gupy... para minimizar Alucinações.
+- Para alimentar o NotebookLM, selecionei fontes confiáveis como MIT, Alura, Gupy... para minimizar Alucinações.
